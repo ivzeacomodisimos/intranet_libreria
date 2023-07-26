@@ -1,0 +1,17 @@
+{
+    "name": "intranet/libreria",
+    "description": "paquetes que se crean para poder extender a otras aplicaciones",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Intranet\\Libreria\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ivan.zea",
+            "email": "ivan.zea@comodisimos.com"
+        }
+    ],
+    "require": {}
+}
